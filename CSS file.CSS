@@ -1,0 +1,9 @@
+/* Exemple de feuille de style de base */
+p {
+    color: red; /* Couleur du texte */
+    font-family: Verdana, sans-serif; /* Police de caractère */
+    font-size: 100%; /* Taille de la police (exprimée en %) */
+    background-color: white; /* Couleur de fond */
+    padding: 0; /* Marge intérieure (padding) */
+  }
+  

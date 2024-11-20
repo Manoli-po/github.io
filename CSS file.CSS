@@ -6,5 +6,9 @@ p {
     background-color: white; /* Couleur de fond */
     padding: 0; /* Marge intérieure (padding) */
     height: 1px;
+    h1 {
+        font-size: 70px;
+        color: green;
+      }
   }
   
